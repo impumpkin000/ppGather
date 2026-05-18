@@ -1,6 +1,6 @@
 {
-    "appName": { "message": "ppGather" },
-    "appDescription": { "message": "ページからコンテンツを抽出してダウンロードし、スワイプをサポートします。" },
+    "appName": { "message": "ppGather - ウェブコンテンツ抽出＆一括ダウンロードツール" },
+    "appDescription": { "message": "ウェブページ上の画像ドキュメントをワンクリックで一括ダウンロード。範囲選択での抽出、正規表現フィルター、内蔵ダウンロードマネージャーを搭載。" },
 
     "manage_title": { "message": "ダウンロード管理" },
     "sidebar_title": { "message": "タスク分類" },

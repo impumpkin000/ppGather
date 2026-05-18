@@ -1,6 +1,6 @@
 {
-    "appName": { "message": "ppGather" },
-    "appDescription": { "message": "提取和下载页面中的内容, 支持划选" },
+    "appName": { "message": "ppGather - 一键抓取与批量下载网页内容" },
+    "appDescription": { "message": "一键提取并批量下载网页中的图片和文档资源。支持鼠标划选区域精准抓取、自定义正则表达式过滤，内置强大的下载管理器。" },
     
     "manage_title": { "message": "下载管理器" },
     "sidebar_title": { "message": "任务分类" },

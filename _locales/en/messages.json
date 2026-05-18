@@ -1,6 +1,6 @@
 {
-    "appName": { "message": "ppGather" },
-    "appDescription": { "message": "Extract and download content from the page, support swiping." },
+    "appName": { "message": "ppGather - Web Resource Extractor & Bulk Downloader" },
+    "appDescription": { "message": "Batch download images and documents from any webpage. Features custom area selection, regex filtering, and a download manager." },
 
     "manage_title": { "message": "Download Manager" },
     "sidebar_title": { "message": "Task Categories" },
